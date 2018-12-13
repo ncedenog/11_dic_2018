@@ -1,1 +1,6 @@
-[]
+[
+  "test_exercises.py::test_recalculate_quality",
+  "test_exercises.py::test_recalculate_quality1",
+  "test_exercises.py::test_recalculate_quality2",
+  "test_exercises.py::test_recalculate_quality3"
+]

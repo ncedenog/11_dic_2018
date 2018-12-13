@@ -24,7 +24,9 @@ def recalculate_quality(product):
             
     return product
 
-potato = Product("potato", 9)
-chesse = Product("cheese", 7)
+potato = Product("potato", 4)
+potato1 = Product("potato1", 4)
+cheese = Product("cheese", 5)
+veggies = Product("veggies", 3)
 
 #%%
